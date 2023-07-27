@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient( to right bottom, #ff9999, #99ccff, #ff99ff, #c2f0f0);
+    background: white; /*linear-gradient( to right bottom, #ff9999, #99ccff, #ff99ff, #c2f0f0);*/
 }
 
 .container1 {
